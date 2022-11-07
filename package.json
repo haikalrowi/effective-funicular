@@ -1,0 +1,22 @@
+{
+  "name": "effective-funicular",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haikalrowi/effective-funicular.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haikalrowi/effective-funicular/issues"
+  },
+  "homepage": "https://github.com/haikalrowi/effective-funicular#readme"
+}
